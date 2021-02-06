@@ -1,0 +1,12 @@
+body{
+    background-color:lightblue;
+}
+
+.header{
+    background-color: lightslategray;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 20%;
+}
